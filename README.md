@@ -6,8 +6,10 @@ I'm learning & practicing the fundamentals of Computer Science on daily basis so
 
 I'm currently going through the Free Code Camp: Full-Stack curriculum in Javascript.
 
-San Francisco born & raised and it will always be home even if I move to New York or someplace else.
+San Francisco born & raised and it will always be home even if I move to New York or someplace else. 
 
 I believe food is the key to happiness and fat is flavor!!!
 
-Totesmagotes.
+RDWHAHB - Relax, Don't Worry, Have A Homebrew. IPAs baybee.
+
+Totesmagotes. 
